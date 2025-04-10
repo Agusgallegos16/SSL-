@@ -4,7 +4,7 @@
 Curso: K2102
 
 ## Año de Cursada
-Año: 2025 
+2025 
 
 ## Datos Personales
 - **Legajo:** 222.329-6 
