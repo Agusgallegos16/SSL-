@@ -1,7 +1,7 @@
 # Sintaxis y Semántica de los Lenguajes
 
 ## Curso
-Curso: K2102
+K2102
 
 ## Año de Cursada
 2025 
